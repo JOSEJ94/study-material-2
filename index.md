@@ -1,3 +1,6 @@
 # This is a H1 header
 
 ## And this an H2 header
+
+How about an image?
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
